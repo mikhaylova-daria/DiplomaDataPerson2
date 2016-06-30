@@ -8717,5 +8717,4 @@ id	Word	Offset	TypeNE	Pos_in_sent	Stem	LastTwo	LastThree	IsUpper	IsTitle	IsDigit
 8715	Nick	3370	Person	-1	Nick	ick	ck	False	True	False	Xx	NNP	-1	Adam	ams	ms	False	True	False	Xx	NNP	-1	on	on	on	False	False	False	x	IN
 8716	Clyde	3458	Person	-1	Clyde	yde	de	False	True	False	Xx	NNP	-1	Traskel	kel	el	False	True	False	Xx	NNP	-1	as	as	as	False	False	False	x	IN
 8717	Raymond	3601	Person	-1	Raymond	ond	nd	False	True	False	Xx	NNP	-1	Burr	urr	rr	False	True	False	Xx	NNP	-1	star	ing	ng	False	False	False	x	VBG
-8718	Andy	3898	Person	-1	Andi	ndy	dy	False	True	False	Xx	NNP	-1	Griffith	ith	th	False	True	False	Xx	NNP	-1	short-liv	ved	ed	False	False	False	x-x	JJ
-8719	Donna	3966	Person	-1	Donna	nna	na	False	True	False	Xx	NNP	-1	Mill	lls	ls	False	True	False	Xx	NNP	-1	with	ith	th	False	False	False	x	
+8718	Andy	3898	Person	-1	Andi	ndy	dy	False	True	False	Xx	NNP	-1	Griffith	ith	th	False	True	False	Xx	NNP	-1	short-liv	ved	ed	False	False	False	x-x	JJ	
